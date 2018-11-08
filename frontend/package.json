@@ -1,0 +1,36 @@
+{
+  "name": "react-starter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "expo": "^30.0.1",
+    "react": "^16.6.0",
+    "react-art": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-web": "^0.9.4",
+    "react-scripts": "2.0.5"
+  },
+  "scripts": {
+    "web": "react-scripts start ",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "start": "expo start",
+    "desktop": "electron src/electron.js",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "electron": "^3.0.8"
+  }
+}
