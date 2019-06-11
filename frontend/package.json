@@ -12,7 +12,7 @@
     "react-scripts": "2.0.5"
   },
   "scripts": {
-    "web": "react-scripts start ",
+    "web": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "start": "expo start",
