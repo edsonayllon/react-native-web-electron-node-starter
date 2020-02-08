@@ -15,6 +15,8 @@ twitter: https://twitter.com/relativeread
 
 # react-native-web-express-starter
 
+This project compiles to a React web app, iOS app, Android app, MacOS app, Windows app, and communicates to a node.js express API. 
+
 
 ## 1 | Getting Started
 
