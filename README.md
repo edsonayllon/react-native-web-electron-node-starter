@@ -1,6 +1,6 @@
 ---
 author: Edson Ayllon
-category: starter code
+category: starter project
 tags: 
 - react
 - react native
